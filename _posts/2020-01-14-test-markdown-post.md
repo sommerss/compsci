@@ -47,5 +47,5 @@ print("msg")
 
 ## The sixth link
 
-Wow- this is a lot of links. don't worry, this is the last one. hope you enjoyed!
+Wow- this is a lot of links. don't worry, this is the last one. hope you enjoyed! ☏ ☏
 
