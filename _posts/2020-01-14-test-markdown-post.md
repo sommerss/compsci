@@ -20,7 +20,7 @@ this originally talked about file naming format, but now i am going to use it as
 
 this one was originally about formatting, but now i am inputting a link to the fandom page on remy from ratatouille
 
-[Remy](https://disney.fandom.com/wiki/Remy)
+[Rat page](https://disney.fandom.com/wiki/Remy)
 
 I love ratatouille 
 
@@ -36,7 +36,7 @@ This one was about lists, so here is a list of soda I like
 
 ## The fourth link
 
-[Random video](https://youtu.be/UeLgHoh__DA)
+[Random video from youtube](https://youtu.be/UeLgHoh__DA)
 Here is a link to a random video about portfolio creation that was on my youtube recommended
 
 ## The fifth link
