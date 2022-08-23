@@ -1,11 +1,15 @@
 ---
 layout: page
-title: About Me
+title: About Sabine
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+This website is powered by fastpages and also me, Sabine. I put a lot of work into this. I am equally as passionate about music I like, so here is a drop down list of music I am interested in at the moment. 
+1. Mount Everest-Labrinth
+2. N Side- Steve Lacy
+3. Cold Cold Cold- Cage the Elephant
+4. Boomerang- Jojo Siwa (just kidding)
+5. Starboy- The Weeknd
 
 
-
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+[^1]:i also like the music from ratatouille
