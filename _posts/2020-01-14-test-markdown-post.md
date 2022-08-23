@@ -1,103 +1,51 @@
 ---
 toc: true
 layout: post
-description: yippee
+description: it was but now it is mine
 categories: [markdown]
 title: Not an Example Markdown Post
 ---
-# Example Markdown Post
+# Directory
 
-## Basic setup
+## The first link
 
-Jekyll requires blog post files to be named according to the following format:
+this originally talked about file naming format, but now i am going to use it as a temporary to do list for my homework.
 
-`YEAR-MONTH-DAY-filename.md`
+-english notebook decoration
+-syllabus quiz
+-yearbook get to know you
+-math graphing
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `filename` is whatever file name you choose, to remind yourself what this post is about. `.md` is the file extension for markdown files.
+## The second link
 
-The first line of the file should start with a single hash character, then a space, then your title. This is how you create a "*level 1 heading*" in markdown. Then you can create level 2, 3, etc headings as you wish but repeating the hash character, such as you see in the line `## File names` above.
+this one was originally about formatting, but now i am inputting a link to the fandom page on remy from ratatouille
 
-## Basic formatting
+https://disney.fandom.com/wiki/Remy 
 
-You can use *italics*, **bold**, `code font text`, and create [links](https://www.markdownguide.org/cheat-sheet/). Here's a footnote [^1]. Here's a horizontal rule:
+I love ratatouille 
 
 ---
 
-## Lists
+## The third link
 
-Here's a list:
+This one was about lists, so here is a list of soda I like
 
-- item 1
-- item 2
+1. dr pepper
+2. cherry coke
+3. root beer
 
-And a numbered list:
+## The fourth link
 
-1. item 1
-1. item 2
+https://youtu.be/UeLgHoh__DA
+Here is a link to a random video about portfolio creation that was on my youtube recommended
 
-## Boxes and stuff
+## The fifth link
 
-> This is a quotation
+Here is an example of printing syntax
+msg=hi
+print("msg")
 
-{% include alert.html text="You can include alert boxes" %}
+## The sixth link
 
-...and...
-
-{% include info.html text="You can include info boxes" %}
-
-## Images
-
-![]({{ site.baseurl }}/images/logo.png "fast.ai's logo")
-
-## Code
-
-You can format text and code per usual 
-
-General preformatted text:
-
-    # Do a thing
-    do_thing()
-
-Python code and output:
-
-```python
-# Prints '2'
-print(1+1)
-```
-
-    2
-
-Formatting text as shell commands:
-
-```shell
-echo "hello world"
-./some_script.sh --option "value"
-wget https://example.com/cat_photo1.png
-```
-
-Formatting text as YAML:
-
-```yaml
-key: value
-- another_key: "another value"
-```
-
-
-## Tables
-
-| Column 1 | Column 2 |
-|-|-|
-| A thing | Another thing |
-
-
-## Tweetcards
-
-{% twitter https://twitter.com/jakevdp/status/1204765621767901185?s=20 %}
-
-
-## Footnotes
-
-
-
-[^1]: This is the footnote.
+Wow- this is a lot of links. don't worry, this is the last one. hope you enjoyed!
 
