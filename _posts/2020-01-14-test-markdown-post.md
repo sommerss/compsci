@@ -1,9 +1,9 @@
 ---
 toc: true
 layout: post
-description: it was but now it is mine
+description: Week 0 Project one markdown post
 categories: [markdown]
-title: Not an Example Markdown Post
+title: Markdown Post One
 ---
 # Directory
 
@@ -49,6 +49,8 @@ print("msg")
 
 Wow- this is a lot of links. don't worry, this is the last one. hope you enjoyed! ☏ ☏
 **have a nice day**
+
+
 
 
 
