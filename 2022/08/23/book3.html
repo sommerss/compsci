@@ -132,35 +132,28 @@ window.onload = wrap_img;
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="k">def</span> <span class="nf">question_and_answer</span><span class="p">(</span><span class="n">prompt</span><span class="p">):</span>
-    <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Question: &quot;</span> <span class="o">+</span> <span class="n">prompt</span><span class="p">)</span>
-    <span class="n">msg</span> <span class="o">=</span> <span class="nb">input</span><span class="p">()</span>
-    <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;Answer: &quot;</span> <span class="o">+</span> <span class="n">msg</span><span class="p">)</span>
-<span class="n">question_and_answer</span><span class="p">(</span><span class="s2">&quot;What is your favorite color?&quot;</span><span class="p">)</span>
-<span class="n">question_and_answer</span><span class="p">(</span><span class="s2">&quot;Is water wet?&quot;</span><span class="p">)</span>
-<span class="n">question_and_answer</span><span class="p">(</span><span class="s2">&quot;What is two times two?&quot;</span><span class="p">)</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="kn">import</span> <span class="nn">random</span>
+
+<span class="n">min_val</span> <span class="o">=</span> <span class="mi">1</span>
+
+<span class="n">max_val</span> <span class="o">=</span> <span class="mi">6</span>
+
+<span class="n">roll_again</span> <span class="o">=</span> <span class="s2">&quot;yes&quot;</span>
+
+<span class="k">while</span> <span class="n">roll_again</span> <span class="o">==</span> <span class="s2">&quot;yes&quot;</span> <span class="ow">or</span> <span class="n">roll_again</span> <span class="o">==</span> <span class="s2">&quot;y&quot;</span><span class="p">:</span>
+
+    <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;roll roll...&quot;</span><span class="p">)</span>
+
+    <span class="nb">print</span><span class="p">(</span><span class="s2">&quot;you got :&quot;</span><span class="p">)</span>
+
+    <span class="nb">print</span><span class="p">(</span><span class="n">random</span><span class="o">.</span><span class="n">randint</span><span class="p">(</span><span class="n">min_val</span><span class="p">,</span> <span class="n">max_val</span><span class="p">))</span>
+
+    <span class="nb">print</span><span class="p">(</span><span class="n">random</span><span class="o">.</span><span class="n">randint</span><span class="p">(</span><span class="n">min_val</span><span class="p">,</span> <span class="n">max_val</span><span class="p">))</span>
+
+<span class="n">roll_again</span> <span class="o">=</span> <span class="nb">input</span><span class="p">(</span><span class="s2">&quot;again?&quot;</span><span class="p">)</span>
 </pre></div>
 
     </div>
-</div>
-</div>
-
-<div class="output_wrapper">
-<div class="output">
-
-<div class="output_area">
-
-<div class="output_subarea output_stream output_stdout output_text">
-<pre>Question: What is your favorite quote?
-Answer: ur mom
-Question: Is water wet
-Answer: yes
-Question: What is two times two
-Answer: 4
-</pre>
-</div>
-</div>
-
 </div>
 </div>
 

@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "Title",
-            "content": "def question_and_answer(prompt): print(&quot;Question: &quot; + prompt) msg = input() print(&quot;Answer: &quot; + msg) question_and_answer(&quot;What is your favorite color?&quot;) question_and_answer(&quot;Is water wet?&quot;) question_and_answer(&quot;What is two times two?&quot;) . Question: What is your favorite quote? Answer: ur mom Question: Is water wet Answer: yes Question: What is two times two Answer: 4 .",
+            "content": "import random min_val = 1 max_val = 6 roll_again = &quot;yes&quot; while roll_again == &quot;yes&quot; or roll_again == &quot;y&quot;: print(&quot;roll roll...&quot;) print(&quot;you got :&quot;) print(random.randint(min_val, max_val)) print(random.randint(min_val, max_val)) roll_again = input(&quot;again?&quot;) .",
             "url": "https://sommerss.github.io/compsci/2022/08/23/book3.html",
             "relUrl": "/2022/08/23/book3.html",
             "date": " • Aug 23, 2022"
