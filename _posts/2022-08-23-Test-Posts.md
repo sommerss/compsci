@@ -6,5 +6,5 @@ categories: [personal]
 title: Notes
 ---
 
-python:
+python: {{site.baseurl}}/images/.png for images
 
