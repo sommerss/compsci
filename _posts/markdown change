@@ -1,16 +1,14 @@
-Hello! My name is Sabine.
+python notes
 
-This text is **bolded**
+aug 23
+function needs perameter such as (prompt) when def is the function
+when there is a plus sign between two strings it is called concatenation 
+import statement is developed by others that we are calling (library, function)- can look them up
+python library math for example to import math so it does it for you (no coding)
+def question_with_response is a function (def defined as question w response)
+if or else can define if something is correct or incorrect if needed
+if commands need else commands
+examples on hello python
 
-And this is *italics*
-
-And my grocery list...
-
-1. eggs
-2. bread
-3. milk
-4. cookies
-
-Have a nice day! 
 
 
