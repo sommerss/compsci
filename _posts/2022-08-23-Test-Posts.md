@@ -6,7 +6,7 @@ categories: [personal]
 title: Notes
 ---
 
-python: {{site.baseurl}}/images/.png for images
+python: {{site.baseurl}}/images/APCSP.png for images
 add post of notes in class
 do hacks for extra credit (post to issues and etc) for 3.0 
 add things to python notebook
