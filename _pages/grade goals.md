@@ -8,3 +8,5 @@ APEL: A/B
 Drawing and Painting: A
 Yearbook: A
 CSP: A
+
+Secondary Goals:
