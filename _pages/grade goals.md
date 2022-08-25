@@ -1,3 +1,8 @@
+---
+layout: page
+title: Grade goals
+permalink: /grades/
+---
 Current GPA: 3.93
 Goal GPA: Unweighted 3.8 minimum
 
