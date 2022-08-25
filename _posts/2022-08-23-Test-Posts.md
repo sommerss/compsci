@@ -6,6 +6,8 @@ categories: [markdown]
 title: Notes
 ---
 
+Week 1 Notes 
+
 python: {{site.baseurl}}/images/APCSP.png for images
 add post of notes in class
 do hacks for extra credit (post to issues and etc) for 3.0 
@@ -27,6 +29,7 @@ examples on hello python
 insert images into correct images folder in order for them to populate on website
 use md (markdown) at end in order for wider variety of available functions on posts
 index.html to make index at top 
+
 
 
 
