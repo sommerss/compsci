@@ -25,7 +25,7 @@
     
         ,"post2": {
             "title": "Poetry",
-            "content": "this is an image test for poetry to see if it works- . art gallery starts here . /compsci/images/image0(1).png . /compsci/images/image1.png .",
+            "content": "this is an image test for poetry to see if it works- . art gallery starts here . . .",
             "url": "https://sommerss.github.io/compsci/personal/2022/08/23/poetry.html",
             "relUrl": "/personal/2022/08/23/poetry.html",
             "date": " • Aug 23, 2022"
