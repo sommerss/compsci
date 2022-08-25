@@ -71,6 +71,17 @@
   
 
   
+      ,"page2": {
+          "title": "Grade goals",
+          "content": "Current GPA: 3.93 Goal GPA: Unweighted 3.8 minimum . Goals: . Math: A APEL: A/B Drawing and Painting: A Yearbook: A CSP: A . Secondary Goals: .",
+          "url": "https://sommerss.github.io/compsci/grades/",
+          "relUrl": "/grades/",
+          "date": ""
+      }
+      
+  
+
+  
 
   
   
@@ -92,7 +103,7 @@
   
 
   
-      ,"page10": {
+      ,"page11": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://sommerss.github.io/compsci/robots.txt",
