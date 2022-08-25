@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Grade goals
+title: grade goals
 permalink: /grades/
 ---
 Current GPA: 3.93
