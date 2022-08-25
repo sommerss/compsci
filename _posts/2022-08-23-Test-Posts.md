@@ -32,7 +32,9 @@ index.html to make index at top
 
 do little quiz in the hello python notebook (ab the vocab and stuff) and post to jupiter notebook as part of assignment
 
-class repo has been updated- in order to get things you need click pull from vscode APCSP- two extra files 
+class repo has been updated- in order to get things you need click pull from vscode APCSP- two extra files (DONE)
 
-reference bash tutorial (pulled extra files from pull function in source control) and take notes on new functions/bash install/capabilities and POST the notebook to MY BLOG (jupyter notebook, pull file to my own repo)
+reference bash tutorial (pulled extra files from pull function in source control) and take notes on new functions/bash install/capabilities and POST the notebook to MY BLOG (jupyter notebook, pull file to my own repo and post) 
+
+additional: figure out titling jupyter notebooks and images, finish modifying blog for personal use (this tri and next tri of comp sci specifically), hacks extra credit (one on both assignments in canvas (week 0 and week 1) and 1 in the bash tutorial section)
 
