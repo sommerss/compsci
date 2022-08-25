@@ -1,3 +1,11 @@
+---
+toc: true
+layout: post
+description: Week 1 project notes 
+categories: [markdown]
+title: Class Notes
+---
+
 python notes
 
 aug 23
