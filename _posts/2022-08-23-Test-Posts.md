@@ -30,6 +30,9 @@ insert images into correct images folder in order for them to populate on websit
 use md (markdown) at end in order for wider variety of available functions on posts
 index.html to make index at top 
 
+do little quiz in the hello python notebook (ab the vocab and stuff) and post to jupiter notebook as part of assignment
 
+class repo has been updated- in order to get things you need click pull from vscode APCSP- two extra files 
 
+reference bash tutorial (pulled extra files from pull function in source control) and take notes on new functions/bash install/capabilities and POST the notebook to MY BLOG (jupyter notebook, pull file to my own repo)
 
