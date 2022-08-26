@@ -42,7 +42,7 @@ make a new file in notebooks for bash and change the terminal to bash
 
 
 task list:
-hello python notebook little quiz (show proof of changes so dont just copy directly)
+hello python notebook little quiz (show proof of changes so dont just copy directly)(3-5 questions)
 post bash notebook with proof of capabilities
 change blog site to be more like blog
 see additional:
