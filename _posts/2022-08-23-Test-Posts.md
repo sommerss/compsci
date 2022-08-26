@@ -38,3 +38,12 @@ reference bash tutorial (pulled extra files from pull function in source control
 
 additional: figure out titling jupyter notebooks and images, finish modifying blog for personal use (this tri and next tri of comp sci specifically), hacks extra credit (one on both assignments in canvas (week 0 and week 1) and 1 in the bash tutorial section)
 
+make a new file in notebooks for bash and change the terminal to bash
+
+
+task list:
+hello python notebook little quiz (show proof of changes so dont just copy directly)
+post bash notebook with proof of capabilities
+change blog site to be more like blog
+see additional:
+
