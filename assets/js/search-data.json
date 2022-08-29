@@ -2,17 +2,6 @@
   
     
         "post0": {
-            "title": "Title",
-            "content": "import getpass, sys def question_with_response(prompt): print(&quot;Question: &quot; + prompt) msg = input() return msg questions = 4 correct = 0 print(&#39;Hello, &#39; + getpass.getuser() + &quot; running &quot; + sys.executable) print(&quot;YTime for &quot; + str(questions) + &quot; questions.&quot;) rsp = question_with_response(&quot;What command is used to repeat exactly what you&#39;ve just said?&quot;) if rsp == &quot;echo&quot;: print(rsp + &quot; is correct!&quot;) correct += 1 else: print(rsp + &quot; is incorrect!&quot;) rsp = question_with_response(&quot;What is five times seven?&quot;) if rsp == &quot;35&quot;: print(rsp + &quot; is correct!&quot;) correct += 1 else: print(rsp + &quot; is incorrect!&quot;) rsp = question_with_response(&quot;Post files must be named in ____ format in order to go through&quot;) if rsp == &quot;YYYY-MM-DD.md&quot;: print(rsp + &quot; is correct!&quot;) correct += 1 else: print(rsp + &quot; is incorrect!&quot;) rsp = question_with_response(&quot;What is the syntax for adding images to your blog?&quot;) if rsp == &quot;![]{{site.baseurl}}/images/image.png&quot;: print(rsp + &quot; is correct!&quot;) correct += 1 else: print(rsp + &quot; is incorrect!&quot;) print(getpass.getuser() + &quot; you scored &quot; + str(correct) +&quot;/&quot; + str(questions)) . Hello, wts running /bin/python3 YTime for 4 questions. Question: What command is used to repeat exactly what you&#39;ve just said? echo is correct! Question: What is five times seven? 35 is correct! Question: Post files must be named in ____ format in order to go through YYYY-MM-DD.md is correct! Question: What is the syntax for adding images to your blog? ![]{{site.baseurl}}/images/image.png is correct! wts you scored 4/4 .",
-            "url": "https://sommerss.github.io/compsci/2022/08/25/book3.html",
-            "relUrl": "/2022/08/25/book3.html",
-            "date": " • Aug 25, 2022"
-        }
-        
-    
-  
-    
-        ,"post1": {
             "title": "to do",
             "content": "to do list . week 1: friday: print out yearbook poster math worksheet and study for test update english notebook (hole punches) for check next week as well as on demand see week 1 comp sci requirements in notes section . by monday: finish comp sci req fix ups ( see notes section ) look at yearbook photo assignment, finish notebook for english and prepare for wednesday on demand, math worksheet, remake graffiti piece for art if wanted and make collage if wanted (can use paper in class so not necessary) .",
             "url": "https://sommerss.github.io/compsci/personal/2022/08/25/To-Do.html",
@@ -23,7 +12,7 @@
     
   
     
-        ,"post2": {
+        ,"post1": {
             "title": "Poetry",
             "content": ". . Greys Anatomy Intro . Season one intro song . &lt;/body&gt;",
             "url": "https://sommerss.github.io/compsci/personal/2022/08/23/poetry.html",
@@ -34,9 +23,20 @@
     
   
     
+        ,"post2": {
+            "title": "Title",
+            "content": "import getpass, sys def question_with_response(prompt): print(&quot;Question: &quot; + prompt) msg = input() return msg questions = 4 correct = 0 print(&#39;Hello, &#39; + getpass.getuser() + &quot; running &quot; + sys.executable) print(&quot;YTime for &quot; + str(questions) + &quot; questions.&quot;) rsp = question_with_response(&quot;What command is used to repeat exactly what you&#39;ve just said?&quot;) if rsp == &quot;echo&quot;: print(rsp + &quot; is correct!&quot;) correct += 1 else: print(rsp + &quot; is incorrect!&quot;) rsp = question_with_response(&quot;What is five times seven?&quot;) if rsp == &quot;35&quot;: print(rsp + &quot; is correct!&quot;) correct += 1 else: print(rsp + &quot; is incorrect!&quot;) rsp = question_with_response(&quot;Post files must be named in ____ format in order to go through&quot;) if rsp == &quot;YYYY-MM-DD.md&quot;: print(rsp + &quot; is correct!&quot;) correct += 1 else: print(rsp + &quot; is incorrect!&quot;) rsp = question_with_response(&quot;What is the syntax for adding images to your blog?&quot;) if rsp == &quot;![]{{site.baseurl}}/images/image.png&quot;: print(rsp + &quot; is correct!&quot;) correct += 1 else: print(rsp + &quot; is incorrect!&quot;) print(getpass.getuser() + &quot; you scored &quot; + str(correct) +&quot;/&quot; + str(questions)) . Hello, wts running /bin/python3 YTime for 4 questions. Question: What command is used to repeat exactly what you&#39;ve just said? echo is correct! Question: What is five times seven? 35 is correct! Question: Post files must be named in ____ format in order to go through YYYY-MM-DD.md is correct! Question: What is the syntax for adding images to your blog? ![]{{site.baseurl}}/images/image.png is correct! wts you scored 4/4 .",
+            "url": "https://sommerss.github.io/compsci/2022/08/23/book.html",
+            "relUrl": "/2022/08/23/book.html",
+            "date": " • Aug 23, 2022"
+        }
+        
+    
+  
+    
         ,"post3": {
             "title": "Notes",
-            "content": "Week 1 Notes . python: /compsci/images/APCSP.png for images add post of notes in class do hacks for extra credit (post to issues and etc) for 3.0 add things to python notebook make website look good add index (at top like in APCSP website) . aug 23 function needs perameter such as (prompt) when def is the function when there is a plus sign between two strings it is called concatenation import statement is developed by others that we are calling (library, function)- can look them up python library math for example to import math so it does it for you (no coding) def question_with_response is a function (def defined as question w response) if or else can define if something is correct or incorrect if needed if commands need else commands examples on hello python . insert images into correct images folder in order for them to populate on website use md (markdown) at end in order for wider variety of available functions on posts index.html to make index at top . do little quiz in the hello python notebook (ab the vocab and stuff) and post to jupiter notebook as part of assignment . class repo has been updated- in order to get things you need click pull from vscode APCSP- two extra files (DONE) . reference bash tutorial (pulled extra files from pull function in source control) and take notes on new functions/bash install/capabilities and POST the notebook to MY BLOG (jupyter notebook, pull file to my own repo and post) . additional: figure out titling jupyter notebooks and images, finish modifying blog for personal use (this tri and next tri of comp sci specifically), hacks extra credit (one on both assignments in canvas (week 0 and week 1) and 1 in the bash tutorial section) . make a new file in notebooks for bash and change the terminal to bash . task list: hello python notebook little quiz (show proof of changes so dont just copy directly)(3-5 questions) post bash notebook with proof of capabilities change blog site to be more like blog see additional: .",
+            "content": "Week 1 Notes . python: /compsci/images/APCSP.png for images add post of notes in class do hacks for extra credit (post to issues and etc) for 3.0 add things to python notebook make website look good add index (at top like in APCSP website) . aug 23 function needs perameter such as (prompt) when def is the function when there is a plus sign between two strings it is called concatenation import statement is developed by others that we are calling (library, function)- can look them up python library math for example to import math so it does it for you (no coding) def question_with_response is a function (def defined as question w response) if or else can define if something is correct or incorrect if needed if commands need else commands examples on hello python . insert images into correct images folder in order for them to populate on website use md (markdown) at end in order for wider variety of available functions on posts index.html to make index at top . do little quiz in the hello python notebook (ab the vocab and stuff) and post to jupiter notebook as part of assignment . class repo has been updated- in order to get things you need click pull from vscode APCSP- two extra files (DONE) . reference bash tutorial (pulled extra files from pull function in source control) and take notes on new functions/bash install/capabilities and POST the notebook to MY BLOG (jupyter notebook, pull file to my own repo and post) . additional: figure out titling jupyter notebooks and images, finish modifying blog for personal use (this tri and next tri of comp sci specifically), hacks extra credit (one on both assignments in canvas (week 0 and week 1) and 1 in the bash tutorial section) . make a new file in notebooks for bash and change the terminal to bash . task list: hello python notebook little quiz (show proof of changes so dont just copy directly)(3-5 questions)- done post bash notebook with proof of capabilities change blog site to be more like blog hacks: post to issues (1), customize to be more useful as an actual blog including index and general layout (2), use vocab in quiz, calculate percentage, reference locations in markdown that support vocab (add with #s things in markdown that help with vocab learning), # markdown comments on quiz to help with understanding, run python file directly (from python directory run quiz.py in vscode and post) see additional: .",
             "url": "https://sommerss.github.io/compsci/markdown/2022/08/23/Test-Posts.html",
             "relUrl": "/markdown/2022/08/23/Test-Posts.html",
             "date": " • Aug 23, 2022"
