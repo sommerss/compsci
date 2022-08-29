@@ -42,8 +42,9 @@ make a new file in notebooks for bash and change the terminal to bash
 
 
 task list:
-hello python notebook little quiz (show proof of changes so dont just copy directly)(3-5 questions)
+hello python notebook little quiz (show proof of changes so dont just copy directly)(3-5 questions)- done
 post bash notebook with proof of capabilities
 change blog site to be more like blog
+hacks: post to issues (1), customize to be more useful as an actual blog including index and general layout (2), use vocab in quiz, calculate percentage, reference locations in markdown that support vocab (add with #s things in markdown that help with vocab learning), # markdown comments on quiz to help with understanding, run python file directly (from python directory run quiz.py in vscode and post)
 see additional:
 
