@@ -48,3 +48,24 @@ change blog site to be more like blog
 hacks: post to issues (1), customize to be more useful as an actual blog including index and general layout (2), use vocab in quiz, calculate percentage, reference locations in markdown that support vocab (add with #s things in markdown that help with vocab learning), # markdown comments on quiz to help with understanding, run python file directly (from python directory run quiz.py in vscode and post)
 see additional:
 
+
+week 2 notes (tuesday, lists/dictionaries/iteration)
+
+type means what kind of data- strings, number, integers, floats, list, dictionaries (last two are something that holds it)
+lists and dictionary section code- key and value for first output- name is the key (key is name, value is john doe), type (str=string)
+key values: age is key and value is 18 and type is integer
+quotation marks makes it a string, number is integer
+key is score, value is 90.0 (floating point and not an integer, so float not int)
+something is a list if it has multiple datas and is held in square brackets
+last one is dictionary because it defines somethings key and value- curly brackets 
+can add bash to language piece (edit code)- add bash in quotation marks (inside brackets with other languages), length of list changes (len checks length of list)
+langs 0 means output python (0 is first item), if you wanted to print java put two where it says print langs- when index two, looking at second thing in list. when 3, looking at third thing, etc
+list is type of array, array more used in java but same idea
+dictionary is key and value 
+create databse of your info (DONE! ADDED UNDER JOHN AND SUNNY, SECTION TWO OF NOTEBOOK)
+instead of index, dictionary looks for key, so if you want to get key value use square brackets to find what the value is in that dictionary
+for loop means itll run every time theres something in the dictionary until everything shows up
+d_rec is location in the dictionary 
+rec is like an index, itll go until it finds all the records
+goes through each database for first thing to find and loops until everything is done
+other iteration types: while loops- while number is less than length itll check for whatever is left, same idea for recursive loop (value less than length to find things), hacks at bottom
