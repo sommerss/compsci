@@ -69,3 +69,17 @@ d_rec is location in the dictionary
 rec is like an index, itll go until it finds all the records
 goes through each database for first thing to find and loops until everything is done
 other iteration types: while loops- while number is less than length itll check for whatever is left, same idea for recursive loop (value less than length to find things), hacks at bottom
+
+august 30 week 2
+
+**html fragments**
+
+-background creation of html in whatever markdown we are doing
+-defining pieces of html
+ tags like meta title etc
+ lots of alligator brackets
+ slash to end script
+ reason markdown changes to html is because of jekyll (converts when posted)
+ can use for tables (table to table with alligator bracket and slash)
+ 
+ 
