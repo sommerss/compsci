@@ -1,22 +1,34 @@
 ---
 toc: true
 layout: post
-description: Week 0 Project one markdown post
-categories: [markdown]
-title: Markdown Post One
+description: yearbook assignments
+categories: [personal]
+title: tri 1 yearbook 1
 ---
 # Directory
 
-## The first link
+## Week of Aug 29
 
-this originally talked about file naming format, but now i am going to use it as a temporary to do list for my homework.
+due:
 
--english notebook decoration
--syllabus quiz
--yearbook get to know you
--math graphing
+classmate profile friday
+crowd/setting photo friday
 
-## The second link
+photo opportunities: 
+-tennis practice after school
+-morning band practice
+-socratic seminar in ethnic studies (wednesday period 4)
+-what center
+-nighthawk tutoring
+-task force planning for latine heritage month 
+-interclub meeting during lunch in the gym wed
+-robotics interest meeting wed A107
+-quiz bowl thursday 3:45 to 5
+-talon interest meeting friday at lunch G115
+
+
+
+## Week of Sept 5
 
 this one was originally about formatting, but now i am inputting a link to the fandom page on remy from ratatouille
 
