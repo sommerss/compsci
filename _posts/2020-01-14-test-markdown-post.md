@@ -18,7 +18,7 @@ photo opportunities:
 -tennis practice after school
 -morning band practice
 -socratic seminar in ethnic studies (wednesday period 4)
--what center
+-what center (not open until the 6th)
 -nighthawk tutoring
 -task force planning for latine heritage month 
 -interclub meeting during lunch in the gym wed
