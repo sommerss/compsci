@@ -15,53 +15,52 @@ classmate profile friday
 crowd/setting photo friday
 
 photo opportunities: 
--tennis practice after school
--morning band practice
+-**tennis practice after school**
+-**morning band practice**
 -socratic seminar in ethnic studies (wednesday period 4) (N/A)
 -what center (not open until the 6th) (N/A)
 -nighthawk tutoring (6:15 to 8:15 pm)
 -task force planning for latine heritage month 
 -interclub meeting during lunch in the gym wed (N/A)
 -robotics interest meeting wed A107 (N/A)
--quiz bowl thursday 3:45 to 5
--talon interest meeting friday at lunch G115
--A102 3:45 speech and debate interest meeting
-
+-**quiz bowl thursday 3:45 to 5**
+-**talon interest meeting friday at lunch G115**
+-**A102 3:45 speech and debate interest meeting**
+-
 
 
 ## Week of Sept 5
+What center opening (see philyaw about coverage)
 
-this one was originally about formatting, but now i am inputting a link to the fandom page on remy from ratatouille
+## Week of Sept 12
 
-[Rat page](https://disney.fandom.com/wiki/Remy)
 
-I love ratatouille 
 
----
+## Week of Sept 19
 
-## The third link
 
-This one was about lists, so here is a list of soda I like
 
-1. dr pepper
-2. cherry coke
-3. root beer
+## Week of Sept 26
 
-## The fourth link
 
-[Random video from youtube](https://youtu.be/UeLgHoh__DA)
-Here is a link to a random video about portfolio creation that was on my youtube recommended
 
-## The fifth link
+## Week of Oct 3
 
-Here is an example of printing syntax
-msg=hi
-print("msg")
+## Interviews
 
-## The sixth link
+Ms Hanes (girl volleyball)
+Trinity (short film)
+Kamila (BSU)
+Ryan (theater)
+Jenna (lacrosse)
+that one girl (tennis)
+Cherise (tennis)
+Mr coats (girls lacrosse?)
+mr campillo (robotics club)
+Natalie (cross country and equity)
+Manahil, Alyssa (HOSA)
+Adrian (football)
 
-Wow- this is a lot of links. don't worry, this is the last one. hope you enjoyed! ☏ ☏
-**have a nice day**
 
 
 
