@@ -25,6 +25,7 @@ photo opportunities:
 -robotics interest meeting wed A107
 -quiz bowl thursday 3:45 to 5
 -talon interest meeting friday at lunch G115
+-A102 3:45 speech and debate interest meeting
 
 
 
