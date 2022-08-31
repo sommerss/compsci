@@ -7,6 +7,15 @@ title: tri 1 yearbook 1
 ---
 # Directory
 
+## Camera
+
+**Card 20**
+
+29 week checkout number 4
+7 for tennis
+50 for reg
+checked out wednesday the 31st
+
 ## Week of Aug 29
 
 due:
