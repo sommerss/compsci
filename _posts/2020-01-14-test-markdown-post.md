@@ -32,14 +32,21 @@ photo opportunities:
 -task force planning for latine heritage month 
 -interclub meeting during lunch in the gym wed (N/A)
 -robotics interest meeting wed A107 (N/A)
--**quiz bowl thursday 3:45 to 5**
+-**quiz bowl thursday 3:45 to 5 L116**
 -**talon interest meeting friday at lunch G115**
 -**A102 3:45 speech and debate interest meeting**
--
+
+
+
+-TENNIS PHOTOS
+*names of players*
+*names of rival school*
+
 
 
 ## Week of Sept 5
 What center opening (see philyaw about coverage)
+HOSA interest meeting tuesday S107 at lunch
 
 ## Week of Sept 12
 
