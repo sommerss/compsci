@@ -81,5 +81,7 @@ august 30 week 2
  slash to end script
  reason markdown changes to html is because of jekyll (converts when posted)
  can use for tables (table to table with alligator bracket and slash)
+ can use supported themes in github and replace it in config yaml (change it back after to avoid issues)(hacks)
+ in nav frontend there is an example of a table
  
  
