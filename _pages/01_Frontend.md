@@ -1,8 +1,8 @@
 ---
-layout: default
+toc: true
+layout: page
 title: General
 permalink: /General/
-tags: [week 3]
 ---
 
 {% include nav_frontend.html %}
