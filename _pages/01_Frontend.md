@@ -1,3 +1,10 @@
+---
+layout: default
+title: General
+permalink: /General/
+tags: [week 3]
+---
+
 {% include nav_frontend.html %}
 
 ## Overview
