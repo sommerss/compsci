@@ -7,39 +7,39 @@ permalink: /General/
 
 {% include nav_frontend.html %}
 
-## Overview
+### Overview
 
 this is an overview of my website. by me. sabine. 
 
-## Music
+### Music
 
 yippee
 
-## Grades
+### Grades
 
 Math: 86
 YBK: 100
 ENG: 134
 CSP: 94
 D&P: 100
-## To Do
+### To Do
 YBK: magazines, classmate portfolio, 5 picture turn in
 
-## Goals
+### Goals
 
 all A's this trimester
 
-## General to do
+### General to do
 
 tidy room
 start working out
 
-## Yearbook
+### Yearbook
 
 See to do 
 Interviews
 photography (see other page)
 
-## TBR
+### TBR
 
 Dreamland Burning
