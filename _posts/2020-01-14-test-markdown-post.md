@@ -47,6 +47,7 @@ photo opportunities:
 ## Week of Sept 5
 What center opening (see philyaw about coverage)
 HOSA interest meeting tuesday S107 at lunch
+-not leading up to my turn in week 
 
 ## Week of Sept 12
 
