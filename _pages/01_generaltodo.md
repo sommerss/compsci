@@ -1,0 +1,11 @@
+---
+layout: default
+title: gen to do 
+permalink: /frontend/General to do
+---
+
+{% include nav.frontend.html %}
+
+## General to do
+
+slay

@@ -1,0 +1,12 @@
+---
+layout: default
+title: grades
+permalink: /frontend/Grades
+---
+
+{% include nav.frontend.html %}
+
+## Grades
+
+All As
+B in math
