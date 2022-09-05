@@ -135,86 +135,9 @@
   
 
   
-      ,"page1": {
-          "title": "goals",
-          "content": "| Overview | Music | Grades | To Do | Goals | General to do | Yearbook | TBR | . Goals . add extracurriculars to my schedule .",
-          "url": "https://sommerss.github.io/compsci/frontend/Goals",
-          "relUrl": "/frontend/Goals",
-          "date": ""
-      }
-      
-  
 
   
       ,"page2": {
-          "title": "grades",
-          "content": "| Overview | Music | Grades | To Do | Goals | General to do | Yearbook | TBR | . Grades . All As B in math .",
-          "url": "https://sommerss.github.io/compsci/frontend/Grades",
-          "relUrl": "/frontend/Grades",
-          "date": ""
-      }
-      
-  
-
-  
-      ,"page3": {
-          "title": "music",
-          "content": "| Overview | Music | Grades | To Do | Goals | General to do | Yearbook | TBR | . Music . cpr by cupcakke .",
-          "url": "https://sommerss.github.io/compsci/frontend/music",
-          "relUrl": "/frontend/music",
-          "date": ""
-      }
-      
-  
-
-  
-      ,"page4": {
-          "title": "tbr",
-          "content": "| Overview | Music | Grades | To Do | Goals | General to do | Yearbook | TBR | . TBR . dreamland burning .",
-          "url": "https://sommerss.github.io/compsci/frontend/TBR",
-          "relUrl": "/frontend/TBR",
-          "date": ""
-      }
-      
-  
-
-  
-      ,"page5": {
-          "title": "to do",
-          "content": "| Overview | Music | Grades | To Do | Goals | General to do | Yearbook | TBR | . To Do . your mom .",
-          "url": "https://sommerss.github.io/compsci/frontend/To%20Do",
-          "relUrl": "/frontend/To Do",
-          "date": ""
-      }
-      
-  
-
-  
-      ,"page6": {
-          "title": "gen to do",
-          "content": "| Overview | Music | Grades | To Do | Goals | General to do | Yearbook | TBR | . General to do . slay .",
-          "url": "https://sommerss.github.io/compsci/frontend/General%20to%20do",
-          "relUrl": "/frontend/General to do",
-          "date": ""
-      }
-      
-  
-
-  
-      ,"page7": {
-          "title": "yearbook",
-          "content": "| Overview | Music | Grades | To Do | Goals | General to do | Yearbook | TBR | . Yearbook . magazines submit photos .",
-          "url": "https://sommerss.github.io/compsci/frontend/Yearbook",
-          "relUrl": "/frontend/Yearbook",
-          "date": ""
-      }
-      
-  
-
-  
-
-  
-      ,"page9": {
           "title": "info page",
           "content": "i am a junior at dnhs, my favorite shapes are stars, and my dream career is one in tech. i am passionate about design and art as well as writing and clothing. ☆ .",
           "url": "https://sommerss.github.io/compsci/about/",
@@ -225,7 +148,7 @@
   
 
   
-      ,"page10": {
+      ,"page3": {
           "title": "grade goals",
           "content": "Current GPA: 3.93 Goal GPA: Unweighted 3.8 minimum . Goals: . Math: A APEL: A/B Drawing and Painting: A Yearbook: A CSP: A . Secondary Goals: .",
           "url": "https://sommerss.github.io/compsci/grades/",
@@ -257,7 +180,7 @@
   
 
   
-      ,"page19": {
+      ,"page12": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://sommerss.github.io/compsci/robots.txt",
