@@ -3,7 +3,7 @@
     
         "post0": {
             "title": "Title",
-            "content": "console.log(&quot;yo!&quot;); . yo! . var msg = &quot;yo!&quot;; console.log(msg); . yo! . function logIt(output) { console.log(output); } logIt(msg); . yo! . console.log(&quot;Reuse of logIT&quot;) logIt(&quot;my name is walter hardwell white. i live at&quot;); logIt(308); logIt(&quot;negra aroyal lane, albequerque new mexico.&quot;) . Reuse of logIT my name is walter hardwell white. i live at 308 negra aroyal lane, albequerque new mexico. . function logItType(output) { console.log(typeof output, &quot;;&quot;, output); } console.log(&quot;looking for who asked&quot;) logItType(&quot;literally no one&quot;); // String logItType(0); // Number logItType([0, 0, 0]); // Object is generic for this Array, which similar to Python List . looking for who asked string ; literally no one number ; 0 object ; [ 0, 0, 0 ] . . layout: default title: javascript . permalink: /frontend/General to do . | Overview | table | Grades | To Do | week6 | General to do | Yearbook | TBR | . .",
+            "content": "console.log(&quot;yo!&quot;); . yo! . var msg = &quot;yo!&quot;; console.log(msg); . yo! . function logIt(output) { console.log(output); } logIt(msg); . yo! . console.log(&quot;Reuse of logIT&quot;) logIt(&quot;my name is walter hardwell white. i live at&quot;); logIt(308); logIt(&quot;negra aroyal lane, albequerque new mexico.&quot;) . Reuse of logIT my name is walter hardwell white. i live at 308 negra aroyal lane, albequerque new mexico. . function logItType(output) { console.log(typeof output, &quot;;&quot;, output); } console.log(&quot;looking for who asked&quot;) logItType(&quot;literally no one&quot;); // String logItType(0); // Number logItType([0, 0, 0]); // Object is generic for this Array, which similar to Python List . looking for who asked string ; literally no one number ; 0 object ; [ 0, 0, 0 ] . . layout: default title: javascript . permalink: /frontend/General to do . | Overview | table | Grades | To Do | 6 | General to do | Yearbook | TBR | . .",
             "url": "https://sommerss.github.io/compsci/2022/09/26/js.html",
             "relUrl": "/2022/09/26/js.html",
             "date": " • Sep 26, 2022"
@@ -47,7 +47,7 @@
     
         ,"post4": {
             "title": "tbr",
-            "content": "| Overview | table | Grades | To Do | week6 | General to do | Yearbook | TBR | . TBR . dreamland burning .",
+            "content": "| Overview | table | Grades | To Do | 6 | General to do | Yearbook | TBR | . TBR . dreamland burning .",
             "url": "https://sommerss.github.io/compsci/frontend/TBR",
             "relUrl": "/frontend/TBR",
             "date": " • Sep 5, 2022"
@@ -58,7 +58,7 @@
     
         ,"post5": {
             "title": "yearbook",
-            "content": "| Overview | table | Grades | To Do | week6 | General to do | Yearbook | TBR | . Yearbook . magazines submit photos .",
+            "content": "| Overview | table | Grades | To Do | 6 | General to do | Yearbook | TBR | . Yearbook . magazines submit photos .",
             "url": "https://sommerss.github.io/compsci/frontend/Yearbook",
             "relUrl": "/frontend/Yearbook",
             "date": " • Sep 5, 2022"
@@ -68,19 +68,8 @@
   
     
         ,"post6": {
-            "title": "week6",
-            "content": "| Overview | table | Grades | To Do | week6 | General to do | Yearbook | TBR | . week 6 . pbl vocab notes- creativity, critical thinking, communication, collaboration through leadership, teamwork collaboration, researching, and technical are the 7 tennets of successful processes. it is important to brainstorm, problem solve, and work with your team on all aspects of your project in order for it to be most successful and streamlined. . .",
-            "url": "https://sommerss.github.io/compsci/frontend/week6",
-            "relUrl": "/frontend/week6",
-            "date": " • Sep 5, 2022"
-        }
-        
-    
-  
-    
-        ,"post7": {
             "title": "to do",
-            "content": "| Overview | table | Grades | To Do | week6 | General to do | Yearbook | TBR | . To Do . yearbook .",
+            "content": "| Overview | table | Grades | To Do | 6 | General to do | Yearbook | TBR | . To Do . yearbook .",
             "url": "https://sommerss.github.io/compsci/frontend/To%20Do",
             "relUrl": "/frontend/To Do",
             "date": " • Sep 5, 2022"
@@ -89,9 +78,9 @@
     
   
     
-        ,"post8": {
+        ,"post7": {
             "title": "table",
-            "content": "| Overview | table | Grades | To Do | week6 | General to do | Yearbook | TBR | . name age hobby . sabine | milo | heather | . reading | miku | watching tv | .",
+            "content": "| Overview | table | Grades | To Do | 6 | General to do | Yearbook | TBR | . name age hobby . sabine | milo | heather | . reading | miku | watching tv | .",
             "url": "https://sommerss.github.io/compsci/frontend/table",
             "relUrl": "/frontend/table",
             "date": " • Sep 5, 2022"
@@ -100,9 +89,9 @@
     
   
     
-        ,"post9": {
+        ,"post8": {
             "title": "grades",
-            "content": "| Overview | table | Grades | To Do | week6 | General to do | Yearbook | TBR | . Grades . All As B in math .",
+            "content": "| Overview | table | Grades | To Do | 6 | General to do | Yearbook | TBR | . Grades . All As B in math .",
             "url": "https://sommerss.github.io/compsci/frontend/Grades",
             "relUrl": "/frontend/Grades",
             "date": " • Sep 5, 2022"
@@ -111,11 +100,22 @@
     
   
     
-        ,"post10": {
+        ,"post9": {
             "title": "gen to do",
-            "content": "| Overview | table | Grades | To Do | week6 | General to do | Yearbook | TBR | . General to do . the notebook .",
+            "content": "| Overview | table | Grades | To Do | 6 | General to do | Yearbook | TBR | . General to do . the notebook .",
             "url": "https://sommerss.github.io/compsci/frontend/General%20to%20do",
             "relUrl": "/frontend/General to do",
+            "date": " • Sep 5, 2022"
+        }
+        
+    
+  
+    
+        ,"post10": {
+            "title": "6",
+            "content": "| Overview | table | Grades | To Do | 6 | General to do | Yearbook | TBR | . Week 6 . pbl vocab notes- creativity, critical thinking, communication, collaboration through leadership, teamwork collaboration, researching, and technical are the 7 tennets of successful processes. it is important to brainstorm, problem solve, and work with your team on all aspects of your project in order for it to be most successful and streamlined. . .",
+            "url": "https://sommerss.github.io/compsci/frontend/6",
+            "relUrl": "/frontend/6",
             "date": " • Sep 5, 2022"
         }
         
@@ -247,7 +247,7 @@
   
       ,"page0": {
           "title": "frontend",
-          "content": "| Overview | table | Grades | To Do | week6 | General to do | Yearbook | TBR | . Overview . this is an overview of my website. by me. sabine. .",
+          "content": "| Overview | table | Grades | To Do | 6 | General to do | Yearbook | TBR | . Overview . this is an overview of my website. by me. sabine. .",
           "url": "https://sommerss.github.io/compsci/frontend/overview",
           "relUrl": "/frontend/overview",
           "date": ""
