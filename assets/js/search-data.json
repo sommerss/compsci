@@ -80,7 +80,7 @@
     
         ,"post7": {
             "title": "table",
-            "content": "| Overview | table | Grades | To Do | 6 | General to do | Yearbook | TBR | . name age hobby . sabine | milo | heather | . reading | miku | watching tv | .",
+            "content": "| Overview | table | Grades | To Do | 6 | General to do | Yearbook | TBR | . name age hobby . sabine | milo | heather | . reading | miku | watching tv | . the notebook .",
             "url": "https://sommerss.github.io/compsci/frontend/table",
             "relUrl": "/frontend/table",
             "date": " • Sep 5, 2022"
@@ -102,7 +102,7 @@
     
         ,"post9": {
             "title": "gen to do",
-            "content": "| Overview | table | Grades | To Do | 6 | General to do | Yearbook | TBR | . General to do . the notebook .",
+            "content": "| Overview | table | Grades | To Do | 6 | General to do | Yearbook | TBR | . General to do .",
             "url": "https://sommerss.github.io/compsci/frontend/General%20to%20do",
             "relUrl": "/frontend/General to do",
             "date": " • Sep 5, 2022"
