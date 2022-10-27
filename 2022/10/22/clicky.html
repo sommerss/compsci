@@ -254,48 +254,48 @@ height:50px;
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-python"><pre><span></span><span class="n">var</span> <span class="n">num</span> <span class="o">=</span> <span class="mi">0</span><span class="p">;</span>
+<div class=" highlight hl-javascript"><pre><span></span><span class="kd">var</span> <span class="nx">num</span> <span class="o">=</span> <span class="mf">0</span><span class="p">;</span>
 
-<span class="n">window</span><span class="o">.</span><span class="n">onload</span> <span class="o">=</span> <span class="n">function</span> <span class="p">()</span> <span class="p">{</span>
-        <span class="n">var</span> <span class="n">name</span> <span class="o">=</span> <span class="n">prompt</span><span class="p">(</span><span class="s2">&quot;what should your shop be called&quot;</span><span class="p">);</span>
+<span class="nb">window</span><span class="p">.</span><span class="nx">onload</span> <span class="o">=</span> <span class="kd">function</span> <span class="p">()</span> <span class="p">{</span>
+        <span class="kd">var</span> <span class="nx">name</span> <span class="o">=</span> <span class="nx">prompt</span><span class="p">(</span><span class="s2">&quot;what should your shop be called&quot;</span><span class="p">);</span>
         
-        <span class="n">var</span> <span class="n">space</span> <span class="o">=</span> <span class="n">document</span><span class="o">.</span><span class="n">getElementById</span><span class="p">(</span><span class="s2">&quot;space&quot;</span><span class="p">);</span>
+        <span class="kd">var</span> <span class="nx">space</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">getElementById</span><span class="p">(</span><span class="s2">&quot;space&quot;</span><span class="p">);</span>
         
-        <span class="n">space</span><span class="o">.</span><span class="n">innerHTML</span> <span class="o">=</span> <span class="n">name</span><span class="p">;</span>
+        <span class="nx">space</span><span class="p">.</span><span class="nx">innerHTML</span> <span class="o">=</span> <span class="nx">name</span><span class="p">;</span>
 <span class="p">}</span>
 
-<span class="n">var</span> <span class="n">beancan</span> <span class="o">=</span> <span class="n">document</span><span class="o">.</span><span class="n">getElementById</span><span class="p">(</span><span class="s2">&quot;can of beans&quot;</span><span class="p">);</span>
+<span class="kd">var</span> <span class="nx">beancan</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">getElementById</span><span class="p">(</span><span class="s2">&quot;can of beans&quot;</span><span class="p">);</span>
 
-<span class="n">function</span> <span class="n">beancansClick</span><span class="p">()</span> <span class="p">{</span> 
-    <span class="n">num</span> <span class="o">+=</span> <span class="mi">1</span><span class="p">;</span>
+<span class="kd">function</span> <span class="nx">beancansClick</span><span class="p">()</span> <span class="p">{</span> 
+    <span class="nx">num</span> <span class="o">+=</span> <span class="mf">1</span><span class="p">;</span>
 
-    <span class="n">var</span> <span class="n">numbers</span> <span class="o">=</span> <span class="n">document</span><span class="o">.</span><span class="n">getElementById</span><span class="p">(</span><span class="s2">&quot;numbers&quot;</span><span class="p">);</span>
+    <span class="kd">var</span> <span class="nx">numbers</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">getElementById</span><span class="p">(</span><span class="s2">&quot;numbers&quot;</span><span class="p">);</span>
     
     
-    <span class="n">var</span> <span class="n">upgradeLevel</span> <span class="o">=</span> <span class="n">document</span><span class="o">.</span><span class="n">getElementById</span><span class="p">(</span><span class="s2">&quot;upgradeLevel&quot;</span><span class="p">);</span>
+    <span class="kd">var</span> <span class="nx">upgradeLevel</span> <span class="o">=</span> <span class="nb">document</span><span class="p">.</span><span class="nx">getElementById</span><span class="p">(</span><span class="s2">&quot;upgradeLevel&quot;</span><span class="p">);</span>
     
-    <span class="n">numbers</span><span class="o">.</span><span class="n">innerHTML</span> <span class="o">=</span> <span class="n">num</span><span class="p">;</span>      
-    <span class="k">if</span><span class="p">(</span><span class="n">num</span> <span class="o">&gt;=</span> <span class="mi">15</span> <span class="p">){</span>
-        <span class="n">num</span> <span class="o">+=</span> <span class="mi">3</span><span class="p">;</span>
-        <span class="n">upgradeLevel</span><span class="o">.</span><span class="n">innerHTML</span> <span class="o">=</span> <span class="s2">&quot;level one&quot;</span><span class="p">;</span>
+    <span class="nx">numbers</span><span class="p">.</span><span class="nx">innerHTML</span> <span class="o">=</span> <span class="nx">num</span><span class="p">;</span>      
+    <span class="k">if</span><span class="p">(</span><span class="nx">num</span> <span class="o">&gt;=</span> <span class="mf">15</span> <span class="p">){</span>
+        <span class="nx">num</span> <span class="o">+=</span> <span class="mf">3</span><span class="p">;</span>
+        <span class="nx">upgradeLevel</span><span class="p">.</span><span class="nx">innerHTML</span> <span class="o">=</span> <span class="s2">&quot;level one&quot;</span><span class="p">;</span>
     <span class="p">}</span>
 
 
-    <span class="k">if</span><span class="p">(</span><span class="n">num</span> <span class="o">&gt;=</span> <span class="mi">100</span><span class="p">)</span> <span class="p">{</span>
-        <span class="n">num</span> <span class="o">+=</span> <span class="mi">10</span><span class="p">;</span>
-        <span class="n">upgradeLevel</span><span class="o">.</span><span class="n">innerHTML</span> <span class="o">=</span> <span class="s2">&quot;level two&quot;</span><span class="p">;</span>
+    <span class="k">if</span><span class="p">(</span><span class="nx">num</span> <span class="o">&gt;=</span> <span class="mf">100</span><span class="p">)</span> <span class="p">{</span>
+        <span class="nx">num</span> <span class="o">+=</span> <span class="mf">10</span><span class="p">;</span>
+        <span class="nx">upgradeLevel</span><span class="p">.</span><span class="nx">innerHTML</span> <span class="o">=</span> <span class="s2">&quot;level two&quot;</span><span class="p">;</span>
     <span class="p">}</span>
 
 
-    <span class="k">if</span><span class="p">(</span><span class="n">num</span> <span class="o">&gt;=</span> <span class="mi">200</span><span class="p">)</span> <span class="p">{</span>
-        <span class="n">num</span> <span class="o">+=</span> <span class="mi">20</span><span class="p">;</span>
-        <span class="n">upgradeLevel</span><span class="o">.</span><span class="n">innerHTML</span> <span class="o">=</span> <span class="s2">&quot;level three&quot;</span><span class="p">;</span>
+    <span class="k">if</span><span class="p">(</span><span class="nx">num</span> <span class="o">&gt;=</span> <span class="mf">200</span><span class="p">)</span> <span class="p">{</span>
+        <span class="nx">num</span> <span class="o">+=</span> <span class="mf">20</span><span class="p">;</span>
+        <span class="nx">upgradeLevel</span><span class="p">.</span><span class="nx">innerHTML</span> <span class="o">=</span> <span class="s2">&quot;level three&quot;</span><span class="p">;</span>
     <span class="p">}</span>
 
     
-    <span class="k">if</span><span class="p">(</span><span class="n">num</span> <span class="o">&gt;=</span> <span class="mi">500</span><span class="p">)</span> <span class="p">{</span>
-        <span class="n">num</span> <span class="o">+=</span> <span class="mi">100</span><span class="p">;</span>
-        <span class="n">upgradeLevel</span><span class="o">.</span><span class="n">innerHTML</span> <span class="o">=</span> <span class="s2">&quot;your commitment to this game is concerning and unecessary. please seek help.&quot;</span><span class="p">;</span>
+    <span class="k">if</span><span class="p">(</span><span class="nx">num</span> <span class="o">&gt;=</span> <span class="mf">500</span><span class="p">)</span> <span class="p">{</span>
+        <span class="nx">num</span> <span class="o">+=</span> <span class="mf">100</span><span class="p">;</span>
+        <span class="nx">upgradeLevel</span><span class="p">.</span><span class="nx">innerHTML</span> <span class="o">=</span> <span class="s2">&quot;your commitment to this game is concerning and unecessary. please seek help.&quot;</span><span class="p">;</span>
     <span class="p">}</span>
 <span class="p">}</span>
 </pre></div>
