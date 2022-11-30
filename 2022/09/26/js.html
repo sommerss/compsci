@@ -132,7 +132,7 @@ window.onload = wrap_img;
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-javascript"><pre><span></span><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="s2">&quot;yo!&quot;</span><span class="p">);</span>
+<div class=" highlight hl-bash"><pre><span></span>console.log<span class="o">(</span><span class="s2">&quot;yo!&quot;</span><span class="o">)</span><span class="p">;</span>
 </pre></div>
 
     </div>
@@ -163,8 +163,8 @@ window.onload = wrap_img;
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-javascript"><pre><span></span><span class="kd">var</span> <span class="nx">msg</span> <span class="o">=</span> <span class="s2">&quot;yo!&quot;</span><span class="p">;</span>
-<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">msg</span><span class="p">);</span>
+<div class=" highlight hl-bash"><pre><span></span>var <span class="nv">msg</span> <span class="o">=</span> <span class="s2">&quot;yo!&quot;</span><span class="p">;</span>
+console.log<span class="o">(</span>msg<span class="o">)</span><span class="p">;</span>
 </pre></div>
 
     </div>
@@ -195,10 +195,10 @@ window.onload = wrap_img;
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-javascript"><pre><span></span><span class="kd">function</span> <span class="nx">logIt</span><span class="p">(</span><span class="nx">output</span><span class="p">)</span> <span class="p">{</span>
-    <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="nx">output</span><span class="p">);</span>
-<span class="p">}</span>
-<span class="nx">logIt</span><span class="p">(</span><span class="nx">msg</span><span class="p">);</span>
+<div class=" highlight hl-bash"><pre><span></span><span class="k">function</span> logIt<span class="o">(</span>output<span class="o">)</span> <span class="o">{</span>
+    console.log<span class="o">(</span>output<span class="o">)</span><span class="p">;</span>
+<span class="o">}</span>
+logIt<span class="o">(</span>msg<span class="o">)</span><span class="p">;</span>
 </pre></div>
 
     </div>
@@ -229,10 +229,10 @@ window.onload = wrap_img;
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-javascript"><pre><span></span><span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="s2">&quot;Reuse of logIT&quot;</span><span class="p">)</span>
-<span class="nx">logIt</span><span class="p">(</span><span class="s2">&quot;my name is walter hardwell white. i live at&quot;</span><span class="p">);</span>
-<span class="nx">logIt</span><span class="p">(</span><span class="mf">308</span><span class="p">);</span>
-<span class="nx">logIt</span><span class="p">(</span><span class="s2">&quot;negra aroyal lane, albequerque new mexico.&quot;</span><span class="p">)</span>
+<div class=" highlight hl-bash"><pre><span></span>console.log<span class="o">(</span><span class="s2">&quot;Reuse of logIT&quot;</span><span class="o">)</span>
+logIt<span class="o">(</span><span class="s2">&quot;my name is walter hardwell white. i live at&quot;</span><span class="o">)</span><span class="p">;</span>
+logIt<span class="o">(</span><span class="m">308</span><span class="o">)</span><span class="p">;</span>
+logIt<span class="o">(</span><span class="s2">&quot;negra aroyal lane, albequerque new mexico.&quot;</span><span class="o">)</span>
 </pre></div>
 
     </div>
@@ -266,13 +266,13 @@ negra aroyal lane, albequerque new mexico.
 
 <div class="inner_cell">
     <div class="input_area">
-<div class=" highlight hl-javascript"><pre><span></span><span class="kd">function</span> <span class="nx">logItType</span><span class="p">(</span><span class="nx">output</span><span class="p">)</span> <span class="p">{</span>
-    <span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="k">typeof</span> <span class="nx">output</span><span class="p">,</span> <span class="s2">&quot;;&quot;</span><span class="p">,</span> <span class="nx">output</span><span class="p">);</span>
-<span class="p">}</span>
-<span class="nx">console</span><span class="p">.</span><span class="nx">log</span><span class="p">(</span><span class="s2">&quot;looking for who asked&quot;</span><span class="p">)</span>
-<span class="nx">logItType</span><span class="p">(</span><span class="s2">&quot;literally no one&quot;</span><span class="p">);</span> <span class="c1">// String</span>
-<span class="nx">logItType</span><span class="p">(</span><span class="mf">0</span><span class="p">);</span>    <span class="c1">// Number</span>
-<span class="nx">logItType</span><span class="p">([</span><span class="mf">0</span><span class="p">,</span> <span class="mf">0</span><span class="p">,</span> <span class="mf">0</span><span class="p">]);</span>  <span class="c1">// Object is generic for this Array, which similar to Python List</span>
+<div class=" highlight hl-bash"><pre><span></span><span class="k">function</span> logItType<span class="o">(</span>output<span class="o">)</span> <span class="o">{</span>
+    console.log<span class="o">(</span>typeof output, <span class="s2">&quot;;&quot;</span>, output<span class="o">)</span><span class="p">;</span>
+<span class="o">}</span>
+console.log<span class="o">(</span><span class="s2">&quot;looking for who asked&quot;</span><span class="o">)</span>
+logItType<span class="o">(</span><span class="s2">&quot;literally no one&quot;</span><span class="o">)</span><span class="p">;</span> // String
+logItType<span class="o">(</span><span class="m">0</span><span class="o">)</span><span class="p">;</span>    // Number
+logItType<span class="o">([</span><span class="m">0</span>, <span class="m">0</span>, <span class="m">0</span><span class="o">])</span><span class="p">;</span>  // Object is generic <span class="k">for</span> this Array, which similar to Python List
 </pre></div>
 
     </div>
