@@ -321,6 +321,17 @@
   
     
         ,"post29": {
+            "title": "Title",
+            "content": "&gt; lesson 1-2 stuff - toc: true - comments: true - categories: [Week-13,Big-Idea-3] . albums = [ (&quot;Welcome to my Nightmare&quot;, &quot;Alice Cooper&quot;, 1975, # First album list [ (1, &quot;Welcome to my Nightmare&quot;), (2, &quot;Devil&#39;s Food&quot;), (3, &quot;The Black Widow&quot;), (4, &quot;Some Folks&quot;), (5, &quot;Only Women Bleed&quot;), ] ), (&quot;Bad Company&quot;, &quot;Bad Company&quot;, 1974, # Second album list [ (1, &quot;Can&#39;t Get Enough&quot;), (2, &quot;Rock Steady&quot;), (3, &quot;Ready for Love&quot;), (4, &quot;Don&#39;t Let Me Down&quot;), (5, &quot;Bad Company&quot;), (6, &quot;The Way I Choose&quot;), (7, &quot;Movin&#39; On&quot;), (8, &quot;Seagull&quot;), ] ), (&quot;Nightflight&quot;, &quot;Budgie&quot;, 1981, [ (1, &quot;I Turned to Stone&quot;), (2, &quot;Keeping a Rendezvous&quot;), (3, &quot;Reaper of the Glory&quot;), (4, &quot;She Used Me Up&quot;), ] ), (&quot;More Mayhem&quot;, &quot;Imelda May&quot;, 2011, [ (1, &quot;Pulling the Rug&quot;), (2, &quot;Psycho&quot;), (3, &quot;Mayhem&quot;), (4, &quot;Kentish Town Waltz&quot;), ] ), ] album_id = int(input(&quot;album?&quot;)) song_id = int(input(&quot;song?&quot;)) print(&quot;playing &quot;{0} &quot; from album &quot;{1} &quot;&quot;.format(albums[album_id-1][3][song_id-1][1],albums[album_id-1][0])) . Playing &#34;Pulling the Rug&#34; from album &#34;More Mayhem&#34; . n = input() print(&quot;playing....&quot; + albums[int(n)][0]) . index = 0 while index &lt; len(albums): print(albums[index][0][int(n)], albums[index][3][int(n)]) index += 0 .",
+            "url": "https://sommerss.github.io/compsci/2020/02/20/g1hw-copy.html",
+            "relUrl": "/2020/02/20/g1hw-copy.html",
+            "date": " • Feb 20, 2020"
+        }
+        
+    
+  
+    
+        ,"post30": {
             "title": "tri 1 yearbook 1",
             "content": "Directory . Camera . Card 20 . 29 week checkout number 4 7 for tennis 50 for reg checked out wednesday the 31st . Week of Aug 29 . due: . classmate profile friday crowd/setting photo friday . photo opportunities: -tennis practice after school -morning band practice -socratic seminar in ethnic studies (wednesday period 4) (N/A) -what center (not open until the 6th) (N/A) -nighthawk tutoring (6:15 to 8:15 pm) -task force planning for latine heritage month -interclub meeting during lunch in the gym wed (N/A) -robotics interest meeting wed A107 (N/A) -quiz bowl thursday 3:45 to 5 L116 -talon interest meeting friday at lunch G115 -A102 3:45 speech and debate interest meeting . -TENNIS PHOTOS names of players names of rival school . Week of Sept 5 . What center opening (see philyaw about coverage) HOSA interest meeting tuesday S107 at lunch -not leading up to my turn in week . Week of Sept 12 . Week of Sept 19 . Week of Sept 26 . Week of Oct 3 . Interviews . Ms Hanes (girl volleyball) Trinity (short film) Kamila (BSU) Ryan (theater) Jenna (lacrosse) that one girl (tennis) Cherise (tennis) Mr coats (girls lacrosse?) mr campillo (robotics club) Natalie (cross country and equity) Manahil, Alyssa (HOSA) Adrian (football) .",
             "url": "https://sommerss.github.io/compsci/personal/2020/01/14/test-markdown-post.html",
@@ -391,10 +402,12 @@
   
 
   
+
+  
   
 
   
-      ,"page14": {
+      ,"page15": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://sommerss.github.io/compsci/robots.txt",
