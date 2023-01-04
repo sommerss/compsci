@@ -1,0 +1,46 @@
+---
+layout: default
+title: performance scoring task 1 
+toc: true
+---
+
+<table>
+  <tr>
+    <th>Reporting category</th>
+    <th>Student score</th> 
+    <th>College board score</th> 
+    <th>Comments</th>
+  </tr>
+  <tr>
+    <td>program purpose and function</td>
+    <td>data abstraction</td> 
+    <td>managing complexity</td> 
+    <td>procedural abstraction</td> 
+    <td>algorithm implementation</td> 
+     <td>testing</td> 
+  </tr>
+  <tr>
+    <td>1</td>
+    <td>1</td> 
+    <td>0</td> 
+    <td>1</td> 
+    <td>1</td>
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>0</td>
+    <td>1</td>
+    <td>0</td> 
+    <td>1</td>
+    <td>1</td>  
+    <td>1</td>
+  </tr>
+  <tr>
+    <td>I thought that the student should earn a one because the descriptions were fairly detailed and specific about what the program was for and exactly what it did. College board disagreed and found the description of the purpose of the program to be nondescript and not specific enough to earn the point.</td>
+    <td>The list has more than one element and aids in the programs purpose. The description is specific and meets all of the criteria, which collegeboard agrees with and would also award the student 1 point. </td> 
+    <td>I thought the student should not recieve points for the third segment because it does not show how the program manages complexity and just explained the code.</td> 
+    <td>I thought this deserved deserved the point for this because the procedure was called twice and explained thoroughly with results of the calls. </td> 
+    <td>I thought the student deserved points for this because they iterated and sequenced the program and selected specific values which they called</td>
+    <td>I thought the student deserved points for this because it was specific and showed two calls as well as a parameter and what was tested by each individual call and the results of the calls.</td>
+  </tr>
+</table>
