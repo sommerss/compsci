@@ -1,46 +1,52 @@
 ---
-layout: default
-title: performance scoring task 1 
 toc: true
+layout: post
+description: 5.1 Beneficial and Harmful effects and 5.2 Digital Divide notes (week of jan 23)
+categories: [collegeboard]
+title: Big Ideas 5.1 and 5.2
 ---
+### 5.1 Beneficial and Harmful effects of Computing 
+## beneficial and harmful effects of computing
 
-<table>
-  <tr>
-    <th>Reporting category</th>
-    <th>Student score</th> 
-    <th>College board score</th> 
-    <th>Comments</th>
-  </tr>
-  <tr>
-    <td>program purpose and function</td>
-    <td>data abstraction</td> 
-    <td>managing complexity</td> 
-    <td>procedural abstraction</td> 
-    <td>algorithm implementation</td> 
-     <td>testing</td> 
-  </tr>
-  <tr>
-    <td>1</td>
-    <td>1</td> 
-    <td>0</td> 
-    <td>1</td> 
-    <td>1</td>
-    <td>1</td>
-  </tr>
-  <tr>
-    <td>0</td>
-    <td>1</td>
-    <td>0</td> 
-    <td>1</td>
-    <td>1</td>  
-    <td>1</td>
-  </tr>
-  <tr>
-    <td>I thought that the student should earn a one because the descriptions were fairly detailed and specific about what the program was for and exactly what it did. College board disagreed and found the description of the purpose of the program to be nondescript and not specific enough to earn the point.</td>
-    <td>The list has more than one element and aids in the programs purpose. The description is specific and meets all of the criteria, which collegeboard agrees with and would also award the student 1 point. </td> 
-    <td>I thought the student should not recieve points for the third segment because it does not show how the program manages complexity and just explained the code. Collegeboard agreed with my analysis and said that the student did not meet any of the criteria appropriately.</td> 
-    <td>I thought this deserved deserved the point for this because the procedure was called twice and explained thoroughly with results of the calls. Collegeboard agreed with my analysis. </td> 
-    <td>I thought the student deserved points for this because they iterated and sequenced the program and selected specific values which they called. Collegeboard agreed with my analysis.</td>
-    <td>I thought the student deserved points for this because it was specific and showed two calls as well as a parameter and what was tested by each individual call and the results of the calls. Collegeboard agreed with my analysis.</td>
-  </tr>
-</table>
+1. Computers are used in businesses for change, creating accounts, checking out, etc. A beneficial effect of this is that it allows the store to keep track of all the items that have been sold and keep their stock accurate, which makes it easier for both them and the customers. However, glitches in the system can cause people to be over or undercharged or it can innacurately judge the stock and hurt the business.
+
+2. We use technology to submit our school assignments, which makes it easier for both students and staff to communicate and to be able to submit assignments from wherever and if they are absent. However, this can inihibit the ability of students who lack the means (wifi, good computers, etc) to turn in their assignments and if it glitches can cause students to turn in work late by accident, causing them to lose points where they did not deserve to. 
+
+3. Technology helps book appointments with different businesses, which allows us to get into places faster without having to actually go to the location and we can do it whenever we need to, which is very convenient. However, it may result in double booking, innacurate timing, trouble rescheduling, and other issues. 
+
+FOR OUR PROJECT...
+
+Beneficial effects: 
+1. students can destress by playing fun games
+2. students can improve on their word skills and vocabulary and knowledge by playing the quiz or word guessing games
+3. students can have a personal sense of accomplishment by seeing their ranking on the leaderboard 
+
+Negative effects:
+1. Students can be distracted from schoolwork by games 
+2. students can have lowered self esteem if they are not doing well on the leaderboard
+
+
+## dopamine issues
+1. I have personally found that the amount of time I spend on social media has contributed to a decline in my attention span and my desire to do other things because it is so easy to find instant dopamine in the millions of accessible topics online. It sometimes prevents me from doing my work to the quality that I am able to make it at because I am so focused on instantly recieving happiness that I forget about the long term happiness that academic success can provide. 
+
+
+### 5.2 Digital Divide
+
+Pros to internet blockers: 
+1. Prevents students from getting distracted which may help improve their grades
+2. Prevents students from searching for harmful content or information
+3. Can prevent computers from being damaged by viruses
+
+Cons to internet blockers:
+1. Can prohibit sites that are actually safe that students may need for research or classes
+2. Can make it hard in compsci classes when the wifi does not enable certain features that we need for class 
+
+Concerns about the digital divide:
+
+I am concerned that it will prevent students who lack resources from being able to be successful and will only allow success for students whose situation allows it, which is unfair to the students who lack the resources by no fault of their own. 
+
+Other questions...
+
+1. Someone can empower themself in a digital world by taking advantage of resources, doing their own research, and working around difficulties by asking for help and searching for solutions. 
+2. Students who are empowered can help unempowered students by offering to assist them by either helping them or finding help for them and showing resources that they themselves may have used in the past. At del norte, a student could help by pointing another student to the accessible computers in the library or to the lend out chromebooks.
+3. I think there is sometimes red tape at our school because so many of the assignments and work in our classes requires devices that not everyone has access to. Del Norte is in a fairly affluent area and has the resources to provide things such as publicly accessible computers and computers to lend out, but in other areas where this is not possible students are definitely blocked from digital empowerment by socioeconomic issues and lack of resources available or lack of help finding them. 
